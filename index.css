@@ -1,6 +1,6 @@
 * {
 				font-family: 'LobsterRegular';  
-                 color: white;
+                 color: black;
 				text-align: center;
                 font-weight: normal; 
                 font-style: normal;
@@ -37,9 +37,7 @@ background-image: url("https://images.unsplash.com/photo-1434940803764-819504afa
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  
-  
-}
+ }
 .column1{
   background-image: url("https://i.pinimg.com/564x/a8/81/e2/a881e257fb6ef9d7f43c9437e0c63ed6.jpg");
   background-position: center;
@@ -59,7 +57,7 @@ background-position: center;
 
   
 h1{font-family: 'DancingScriptRegular'; 
-                 color: white;
+                 color: black;
 				text-align: center;
                 font-weight: bold; 
                 font-style: normal;
@@ -71,7 +69,7 @@ h1{font-family: 'DancingScriptRegular';
 }
 h3{
   font-family: 'DancingScriptRegular'; 
-                 color: white;
+                 color: black;
 				text-align: center;
                 font-weight: bold; 
                 font-style: normal;
