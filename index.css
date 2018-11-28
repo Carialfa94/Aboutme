@@ -31,7 +31,7 @@ a{
 				height: 10em;
 				margin-bottom: 1em;}
 
-body, html {
+body{
 background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e87ef?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e43c1ac863c977c2df8b7634cbc966b1");
     background-position: center;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@ h1{font-family: 'DancingScriptRegular';
 h3{
   font-family: 'DancingScriptRegular'; 
                  color: black;
-				text-align: center;
+				text-align: LEFT;
                 font-weight: bold; 
                 font-style: normal;
                 font-size: 500%;
@@ -68,7 +68,7 @@ font-family: 'LobsterRegular';
   p{
 	    font-family: 'DancingScriptRegular'; 
                  color: #ffe6e6;
-				text-align: center;
+				text-align: left;
 }
 	  
   mark {
