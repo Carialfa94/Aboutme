@@ -36,6 +36,7 @@ background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e8
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+	background-img:hover(opacity:0.8);
  }
 .column1{
   background-image: url("https://i.pinimg.com/564x/a8/81/e2/a881e257fb6ef9d7f43c9437e0c63ed6.jpg");
