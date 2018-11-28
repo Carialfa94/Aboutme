@@ -1,7 +1,7 @@
 * {
 				font-family: 'LobsterRegular';  
                  color: black;
-				text-align: center;
+				text-align: left;
                 font-weight: normal; 
                 font-style: normal;
 }
@@ -37,28 +37,12 @@ background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e8
     background-repeat: no-repeat;
     background-size: cover;
 	background-img:hover(opacity:0.8);
- }
-.column1{
-  background-image: url("https://i.pinimg.com/564x/a8/81/e2/a881e257fb6ef9d7f43c9437e0c63ed6.jpg");
-  background-position: center;
-  font-family: 'GFSJacksonRegular'; 
-                 color: white ;
-}
 
-.column2{
-  background-image: url("https://i.pinimg.com/564x/4c/f0/7e/4cf07e789fc5a2128f4e9491979b529c.jpg");
-background-position: center;
-}
-.column3{
-  background-image: url("https://i.pinimg.com/564x/72/a3/5b/72a35b4f33788403ca1288e58dcf0d56.jpg");
-  background-position: center;
-}
-  
 
   
 h1{font-family: 'DancingScriptRegular'; 
                  color: black;
-				text-align: center;
+				text-align: left;
                 font-weight: bold; 
                 font-style: normal;
                 font-size: 400%;
