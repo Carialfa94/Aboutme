@@ -21,9 +21,7 @@ background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e8
     background-repeat: no-repeat;
     background-size: cover;
   background-attachment:fixed;
-    width 90%
   margin: 0;
-
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
@@ -70,8 +68,6 @@ font-family: 'LobsterRegular';
       font-style: strong;
      font-weight: 900;
     font-size: 300%;
-      
-   
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
