@@ -20,8 +20,15 @@ background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e8
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  margin: 0 auto ;}
-			
+  background-attachment:fixed;
+    width 90%
+  margin: 0;
+
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
 
 
   
@@ -55,13 +62,15 @@ font-family: 'LobsterRegular';
 
 	  
   p{
-	      font-family:  'DancingScriptRegular';
   
-				text-align: left;
+       border: 3px solid black;
+   
+	 font-family:  'DancingScriptRegular';
+ text-align: left;
       font-style: strong;
      font-weight: 900;
     font-size: 300%;
-       border: 3px solid black;
+      
    
     padding-top: 50px;
     padding-right: 30px;
