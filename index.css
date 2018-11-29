@@ -1,51 +1,36 @@
-* {
-				font-family: 'LobsterRegular';  
-                 color: black;
-				text-align: left;
-                font-weight: normal; 
-                font-style: normal;
-}
-			body {
-				margin:  auto;}
+
+			
 			#content {
               font-size: 40px}
-			#nav, #feature, #footer {
-				margin: 1%;}
-			.column1, .column2, .column3 {
-				width: 31.3%;
-				float: left;
-				margin: 1%;}
-			.column3 {
-				margin-right: 0%;}
-			li {
 
-				display: inline;
-				padding: 0.5em;}
+		
 a{
     font-size: 200%;
+  color:white;
+    text-align: center;
 }
 			#nav, #footer, #option {
+			    text-align: center;
 			
 				padding: 0.5em 0;}
-			#feature, .article {
-				height: 10em;
-				margin-bottom: 1em;}
+		
 
-body{
-background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e87ef?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e43c1ac863c977c2df8b7634cbc966b1");
+body, html {
+background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e87ef?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e43c1ac863c977c2df8b7634cbc966b");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-	background-img:hover(opacity:0.8);
+  margin: 0 auto ;}
+			
 
 
   
 h1{font-family: 'DancingScriptRegular'; 
-                 color: black;
-				text-align: left;
+                 color: white;
+				text-align: right;
                 font-weight: bold; 
                 font-style: normal;
-                font-size: 400%;
+                font-size: 800%;
    margin: 0px;
   padding: 0px;
 
@@ -53,26 +38,47 @@ h1{font-family: 'DancingScriptRegular';
 }
 h3{
   font-family: 'DancingScriptRegular'; 
-                 color: black;
-				text-align: LEFT;
+                 color: white;
+				text-align: center;
                 font-weight: bold; 
                 font-style: normal;
                 font-size: 500%;
 }
 
-h{
+h2{
 font-family: 'LobsterRegular';  
-                 color: #FFE4B5;
+    color: #FFE4B5;
+  	text-align: right;
+  position:right ;
+  
 	}
 
+
   p{
-	    font-family: 'DancingScriptRegular'; 
-                 color: #ffe6e6;
+	      font-family:  'DancingScriptRegular';
+                  color: #800000;
+    background-color:gray;
 				text-align: left;
+      font-style: strong;
+     font-weight: 900;
+    font-size: 300%;
 }
 	  
   mark {
    
-    color: black;
+    color: yellow;
+}
+  
+
+			li  {
+  text-align: center;
+				font-family: 'LobsterRegular';  
+                font-weight: normal; 
+                font-style: normal;
+              display: inline;
+				padding: 0.5em;
 }
 
+  
+  
+  
