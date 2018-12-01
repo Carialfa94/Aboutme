@@ -1,95 +1,136 @@
-
-			
-			#content {
-              font-size: 40px}
-
-		
-a{
-    font-size: 200%;
-  color:white;
-    text-align: center;
+#content {
+font-size : 40px;
 }
-			#nav, #footer, #option {
-			    text-align: center;
-			
-				padding: 0.5em 0;}
-		
-
+a {
+font-size : 200%;
+color : white;
+text-align : center;
+}
+#nav, #footer, #option {
+text-align : center;
+padding : 0.5em 0;
+}
 body, html {
-background-image: url("https://images.unsplash.com/photo-1513021032795-a0af6e8e87ef?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e43c1ac863c977c2df8b7634cbc966b");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  background-attachment:fixed;
-  margin: 0 auto;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+background-image : url("https://images.unsplash.com/photo-1513021032795-a0af6e8e87ef?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e43c1ac863c977c2df8b7634cbc966b");
+background-position : center;
+background-repeat : no-repeat;
+background-size : cover;
+background-attachment : fixed;
+margin : 0 auto;
+padding-top : 50px;
+padding-right : 30px;
+padding-bottom : 50px;
+padding-left : 80px;
+}
+h1 {
+font-family : 'DancingScriptRegular';
+color : white;
+text-align : right;
+font-weight : bold;
+font-style : normal;
+font-size : 800%;
+margin : 0;
+padding : 0;
+}
+h3 {
+font-family : 'DancingScriptRegular';
+color : white;
+text-align : center;
+font-weight : bold;
+font-style : normal;
+font-size : 500%;
+}
+h2 {
+font-family : 'LobsterRegular';
+color : #FFE4B5;
+text-align : right;
+}
+p {
+border : black solid 3px;
+font-family : 'DancingScriptRegular';
+text-align : left;
+font-weight : 900;
+font-size : 300%;
+padding-top : 50px;
+padding-right : 30px;
+padding-bottom : 50px;
+padding-left : 80px;
+}
+mark {
+color : yellow;
+}
+li {
+text-align : center;
+font-family : 'LobsterRegular';
+font-weight : normal;
+font-style : normal;
+display : inline;
+padding : 0.5em;
+}
+@font-face {
+{
+font-family : "'DancingScriptBold'";
+src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/6ab6f85a709e103ab69d7151b4b1e131/DancingScriptBold.ttf') format('truetype');
+font-weight : bold;
+font-style : normal;
+}
+}
+@font-face {
+{
+font-family : "'DancingScriptRegular'";
+src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/86aadd0451f9e7dafa957e1e61dd2ed7/DancingScriptRegular.ttf') format('truetype');
+font-weight : normal;
+font-style : normal;
+}
+}
+@font-face {
+{
+font-family : "'Dancing Script'";
+src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/6ab6f85a709e103ab69d7151b4b1e131/DancingScriptBold.ttf') format('truetype');
+font-weight : bold;
+font-style : normal;
+}
+}
+@font-face {
+{
+font-family : "'Dancing Script'";
+src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/86aadd0451f9e7dafa957e1e61dd2ed7/DancingScriptRegular.ttf') format('truetype');
+font-weight : normal;
+font-style : normal;
+}
+}
+@font-face {
+{
+font-family : "'LobsterRegular'";
+src : url('/assets/fonts/lobster/7dc060d76bbb06e0662ddf250e526967/61bb8fc89f7f91dab8e66f92be958f82/LobsterRegular.ttf') format('truetype');
+font-weight : normal;
+font-style : normal;
+}
+}
+@font-face {
+{
+font-family : "'Lobster'";
+src : url('/assets/fonts/lobster/7dc060d76bbb06e0662ddf250e526967/61bb8fc89f7f91dab8e66f92be958f82/LobsterRegular.ttf') format('truetype');
+font-weight : normal;
+font-style : normal;
+}
+}
+@font-face {
+{
+font-family : "'KaushanScriptRegular'";
+src : url('/assets/fonts/kaushan-script/56c4d12b0afa2064249f258f2d8f6171/51d11a72b39f33f909abddc723d66f03/KaushanScriptRegular.ttf') format('truetype');
+font-weight : normal;
+font-style : normal;
+}
+}
+@font-face {
+{
+font-family : "'Kaushan Script'";
+src : url('/assets/fonts/kaushan-script/56c4d12b0afa2064249f258f2d8f6171/51d11a72b39f33f909abddc723d66f03/KaushanScriptRegular.ttf') format('truetype');
+font-weight : normal;
+font-style : normal;
+}
 }
 
-
-  
-h1{font-family: 'DancingScriptRegular'; 
-                 color: white;
-				text-align: right;
-                font-weight: bold; 
-                font-style: normal;
-                font-size: 800%;
-   margin: 0px;
-  padding: 0px;
-
-  
-}
-h3{
-  font-family: 'DancingScriptRegular'; 
-                 color: white;
-				text-align: center;
-                font-weight: bold; 
-                font-style: normal;
-                font-size: 500%;
-}
-
-h2{
-font-family: 'LobsterRegular';  
-    color: #FFE4B5;
-  	text-align: right;
-  position:right ;
-  
-	}
-
-	  
-  p{
-  
-       border: 3px solid black;
-   
-	 font-family:  'DancingScriptRegular';
- text-align: left;
-      font-style: strong;
-     font-weight: 900;
-    font-size: 300%;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-}
-
-	  
-  mark {
-   
-    color: yellow;
-}
-  
-
-			li  {
-  text-align: center;
-				font-family: 'LobsterRegular';  
-                font-weight: normal; 
-                font-style: normal;
-              display: inline;
-				padding: 0.5em;
-}
-
-  
   
   
