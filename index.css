@@ -46,7 +46,6 @@ color : #FFE4B5;
 text-align : right;
 }
 p {
-border : black solid 3px;
 font-family : 'DancingScriptRegular';
 text-align : left;
 font-weight : 900;
@@ -67,70 +66,7 @@ font-style : normal;
 display : inline;
 padding : 0.5em;
 }
-@font-face {
-{
-font-family : "'DancingScriptBold'";
-src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/6ab6f85a709e103ab69d7151b4b1e131/DancingScriptBold.ttf') format('truetype');
-font-weight : bold;
-font-style : normal;
-}
-}
-@font-face {
-{
-font-family : "'DancingScriptRegular'";
-src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/86aadd0451f9e7dafa957e1e61dd2ed7/DancingScriptRegular.ttf') format('truetype');
-font-weight : normal;
-font-style : normal;
-}
-}
-@font-face {
-{
-font-family : "'Dancing Script'";
-src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/6ab6f85a709e103ab69d7151b4b1e131/DancingScriptBold.ttf') format('truetype');
-font-weight : bold;
-font-style : normal;
-}
-}
-@font-face {
-{
-font-family : "'Dancing Script'";
-src : url('/assets/fonts/dancing-font/6abe34ba1e4054f1d470f5ad3fd2c639/86aadd0451f9e7dafa957e1e61dd2ed7/DancingScriptRegular.ttf') format('truetype');
-font-weight : normal;
-font-style : normal;
-}
-}
-@font-face {
-{
-font-family : "'LobsterRegular'";
-src : url('/assets/fonts/lobster/7dc060d76bbb06e0662ddf250e526967/61bb8fc89f7f91dab8e66f92be958f82/LobsterRegular.ttf') format('truetype');
-font-weight : normal;
-font-style : normal;
-}
-}
-@font-face {
-{
-font-family : "'Lobster'";
-src : url('/assets/fonts/lobster/7dc060d76bbb06e0662ddf250e526967/61bb8fc89f7f91dab8e66f92be958f82/LobsterRegular.ttf') format('truetype');
-font-weight : normal;
-font-style : normal;
-}
-}
-@font-face {
-{
-font-family : "'KaushanScriptRegular'";
-src : url('/assets/fonts/kaushan-script/56c4d12b0afa2064249f258f2d8f6171/51d11a72b39f33f909abddc723d66f03/KaushanScriptRegular.ttf') format('truetype');
-font-weight : normal;
-font-style : normal;
-}
-}
-@font-face {
-{
-font-family : "'Kaushan Script'";
-src : url('/assets/fonts/kaushan-script/56c4d12b0afa2064249f258f2d8f6171/51d11a72b39f33f909abddc723d66f03/KaushanScriptRegular.ttf') format('truetype');
-font-weight : normal;
-font-style : normal;
-}
-}
+
 
   
   
